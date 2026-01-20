@@ -41,8 +41,7 @@ This application uses `st.session_state` to store data temporarily, making it fu
 
 
 ## 📂 Project Structure
-├── bank.py # Main application file ├── README.md # Documentation └── requirements.txt # Dependencies (Optional: add 'streamlit' inside this)
-
+├── bank.py # Main application file ├── README.md # Documentation └── requirements.txt # Dependencies streamlit
 
 ## 👤 Author
 
